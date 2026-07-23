@@ -27,9 +27,18 @@ LIMIT 25;
 
 /*
 Here are 3 key insights into the top-paying data analyst skills in Israel:
-Enterprise Compliance & Cloud Warehousing Command Top Dollar: Governance and cloud infrastructure lead the market, with GDPR and Snowflake tied at the highest average salary ($111,175), reflecting high compensation for data privacy compliance and enterprise architecture.
-Data Science & Python Ecosystem Outpaces Traditional BI: Programmatic and statistical tools (R at $108,088, Pandas/NumPy at $105,000, and Python at $99,807) consistently pay more than traditional reporting tools like Tableau ($93,324), Power BI ($93,196), SQL ($92,344), and Excel ($79,007).
-High Salary Floor for Core Analytics vs. Utility Cloud Terms: Most specialized data tools cluster firmly between $80,000 and $111,000, while broad cloud keywords like AWS and BigQuery sit at the lower end ($53,014), likely due to their frequent inclusion in lower-level or junior job descriptions.
+
+Enterprise Compliance & Cloud Warehousing Command Top Dollar: Governance and cloud infrastructure lead the market, 
+with GDPR and Snowflake tied at the highest average salary ($111,175), reflecting high compensation for data privacy compliance 
+and enterprise architecture.
+
+Data Science & Python Ecosystem Outpaces Traditional BI: Programmatic and statistical tools (R at $108,088, Pandas/NumPy at $105,000, 
+and Python at $99,807) consistently pay more than traditional reporting tools like Tableau ($93,324), Power BI ($93,196), SQL ($92,344), 
+and Excel ($79,007).
+
+High Salary Floor for Core Analytics vs. Utility Cloud Terms: Most specialized data tools cluster firmly between $80,000 and $111,000, 
+while broad cloud keywords like AWS and BigQuery sit at the lower end ($53,014), likely due to their frequent inclusion in lower-level 
+or junior job descriptions.
 [
   {
     "skills": "gdpr",
