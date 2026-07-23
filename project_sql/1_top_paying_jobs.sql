@@ -29,11 +29,14 @@ LIMIT 10;
 /*
 Here are a few quick insights from the top 10 data analyst jobs in Israel:
 
-Geographic Concentration in Central High-Tech Hubs: 70% of the postings are concentrated in Tel Aviv-Yafo, with the remaining 30% located in nearby central tech hubs (Herzliya and Ramat Hasharon).
+Geographic Concentration in Central High-Tech Hubs: 70% of the postings are concentrated in Tel Aviv-Yafo, 
+with the remaining 30% located in nearby central tech hubs (Herzliya and Ramat Hasharon).
 
-Dominance of Cybersecurity & Scale-Up Unicorns: Leading Israeli tech scale-ups and cybersecurity giants dominate hiring for these roles, with AppsFlyer and Armis Security accounting for multiple top positions, alongside major players like Wix, Riskified, and Similarweb.
+Dominance of Cybersecurity & Scale-Up Unicorns: Leading Israeli tech scale-ups and cybersecurity giants dominate hiring for these roles,
+ with AppsFlyer and Armis Security accounting for multiple top positions, alongside major players like Wix, Riskified, and Similarweb.
 
-Highly Standardized Compensation Packages: 9 out of 10 listings share an identical annual salary benchmark of $111,175, indicating a tightly standardized compensation band across these top-tier Israeli roles regardless of specific domain focus (ranging from threat intelligence to marketing analytics).
+Highly Standardized Compensation Packages: 9 out of 10 listings share an identical annual salary benchmark of $111,175, 
+indicating a tightly standardized compensation band across these top-tier Israeli roles regardless of specific domain focus (ranging from threat intelligence to marketing analytics).
 [
   {
     "job_id": 190436,
